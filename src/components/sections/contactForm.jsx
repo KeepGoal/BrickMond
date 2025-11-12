@@ -40,7 +40,7 @@ const ContactForm = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link to={`tel:${COMPANY_PHONE_NUMBER}`}>
+                  <Link to={'#'}>
                     <i>
                       <FaPhone />
                     </i>

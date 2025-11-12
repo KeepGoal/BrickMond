@@ -52,7 +52,7 @@ const FooterCommonLink = () => {
               </Link> */}
             </li>
             <li>
-              <Link to={`tel:${COMPANY_PHONE_NUMBER}`}>
+              <Link to={`#`}>
                 <i className="pe-1 text-white">
                   <FaPhoneVolume />
                 </i>{" "}

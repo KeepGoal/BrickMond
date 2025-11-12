@@ -34,7 +34,7 @@ const TopHeaderOne = () => {
               <i className="primary-color">
                 <FaPhoneVolume />
               </i>{" "}
-              <a href={`tel:${COMPANY_PHONE_NUMBER}`}>{COMPANY_PHONE_NUMBER}</a>
+              <a href={`#`}>{COMPANY_PHONE_NUMBER}</a>
             </li>
           </ul>
         </div>
